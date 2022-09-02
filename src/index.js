@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./04_组件通信的案例/App";
+import App from "./05_React实现slot/02_Slot-.props";
 
-import "./style.css";
+import "./css/NavBar.css";
 ReactDOM.render(<App />, document.getElementById("root"));
