@@ -2,7 +2,7 @@ import React, { Component } from "react";
 function Banner() {
   return (
     <div>
-      <h2>我是Banner</h2>;
+      <h2>我是Banner</h2>
     </div>
   );
 }
@@ -38,7 +38,7 @@ function Main() {
 function Footer() {
   return (
     <div>
-      <h2>我是Footer</h2>;
+      <h2>我是Footer</h2>
     </div>
   );
 }
